@@ -1,3 +1,6 @@
+## Informações básicas
+Este projeto pe um fork de [betafcc/Municipios-Brasileiros-TSE](https://github.com/betafcc/Municipios-Brasileiros-TSE) onde incluo um script sql para criação de tabela em banco de dados SQL.
+
 # Municípios Brasileiros TSE
 
 CSV e JSON contendo `codigo_tse | uf | nome_municipio | capital | codigo_ibge`
